@@ -1,4 +1,4 @@
-# Data Science Resources for Pymier
+# Data Science Resources
 
 A curated list of resources to help you get started with Data Science.
 
@@ -28,12 +28,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## MOOC
 
-* [Machine Learning](https://www.coursera.org/learn/machine-learning) - Andrew Ng (Stanford) - Coursena
-* [Deep Learning course by Andrew Ng](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (Stanford) - Coursena
+* [Machine Learning course](https://www.coursera.org/learn/machine-learning) - Andrew Ng (Stanford) - Coursena
+* [Deep Learning course](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (Stanford) - Coursena
 	* [Youtube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+* [CS231](http://cs231n.github.io) - CNN for Visual Recognition (Stanford)
+* [CD224d/n](https://web.stanford.edu/class/cs224n) - NLP with Deep Learning (Stanford)
 * [Statistics and probability](https://www.khanacademy.org/math/statistics-probability) - Khanacademy
-* [CS231](http://cs231n.github.io) - CNN for Visual Recognition
-* [CD224d/n](https://web.stanford.edu/class/cs224n) - NLP with Deep Learning
 * [Fast.ai](http://course.fast.ai) - Deep Learning for Coders
 * [Bloomberg](https://bloomberg.github.io/foml) - Foundations of Machine Learning
 * [Machine Learning crash course](https://developers.google.com/machine-learning/crash-course/ml-intro) - Google	
@@ -41,9 +41,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Ebooks
 
 * [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Numpy, Pandas, Matplotlib, Machine Learning with Scikit-learn.
-* [Speech and Language Processing by Stanford](https://web.stanford.edu/~jurafsky/slp3/) - Draft
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) - Stanford (Draft Version)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) - Deep Learning tutorial
-* [Deep Learning book](https://www.deeplearningbook.org) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
+* [Deep Learning book](https://www.deeplearningbook.org)
 * [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL)
 * [An Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn)
 * [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Cookiecutter Data Science
@@ -65,7 +65,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Tensorflow](https://www.tensorflow.org) - Deep Learning (Google)
 * [Pytorch](https://pytorch.org) - Deep Learning (Facebook)
 * [Keras](https://keras.io) - Deep Learning lib for Human (High-level API)
-* [xgboost / LightGBM / catboost]() - Gradient boosting
+* [xgboost / LightGBM / catboost](#) - Gradient Boosting
 	* [xgboost](https://github.com/dmlc/xgboost)
 	* [LightGBM](https://github.com/Microsoft/LightGBM)
 	* [catboost](https://github.com/catboost/catboost)
@@ -75,7 +75,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Featuretools](https://github.com/Featuretools/featuretools) - Automated Feature Engineering
 * [Scrapy](https://scrapy.org) - Web Scraping
 * [NetworkX](http://networkx.github.io) - Graphs and Networks
-* [Shogun](https://numfocus.org/project/shogun) - Machine Learning toolbox (C++)
+* [Shogun](https://numfocus.org/project/shogun) - Machine Learning Toolbox (C++)
 
 ## Blogs
 
