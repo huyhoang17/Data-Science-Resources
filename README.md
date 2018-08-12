@@ -44,8 +44,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) - Stanford (Draft Version)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) - Deep Learning tutorial
 * [Deep Learning book](https://www.deeplearningbook.org)
+	* [Deep Learning book - Vietnamese Version](http://dlbookvn.gitlab.io/deeplearning)
 * [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL)
 * [An Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn)
+* [Think Stats](http://www.greenteapress.com/thinkstats) - Probability and Statistics for Programmers
+* [Think Bayes](http://www.greenteapress.com/thinkbayes/html/index.html) - Bayesian Statistics Made Simple
 * [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Cookiecutter Data Science
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com) - Data Science at the Command Line
 
