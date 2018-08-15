@@ -25,6 +25,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Websites
 
 * [Numfocus](https://numfocus.org) - Open Code, Better Science
+* [Interactive Machine Learning](https://p.migdal.pl/interactive-machine-learning-list) - Interactive Machine Learning, Deep Learning and Statistics
 
 ## MOOC
 
