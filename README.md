@@ -50,6 +50,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [An Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn)
 * [Think Stats](http://www.greenteapress.com/thinkstats) - Probability and Statistics for Programmers
 * [Think Bayes](http://www.greenteapress.com/thinkbayes/html/index.html) - Bayesian Statistics Made Simple
+* [Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf) - Massachusetts Institute of Technology (PDF Version)
 * [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Cookiecutter Data Science
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com) - Data Science at the Command Line
 
