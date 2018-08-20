@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Prerequisites
 
 * [Matrix Calculus you need for Deep Learning](http://explained.ai/matrix-calculus/index.html)
+	* [Paper - Arvix](https://arxiv.org/abs/1802.01528v3)
 
 ## Websites
 
