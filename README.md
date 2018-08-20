@@ -85,6 +85,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Blogs
 
 * [Machine Learning cơ bản](https://machinelearningcoban.com) - Tiep Vu Huu
+* [Toward Data Science](https://towardsdatascience.com)
+* [OpenAI](https://blog.openai.com)
+* [WildML](http://www.wildml.com)
+* [Distill.pub](https://distill.pub)
+* [Colab's blog](http://colah.github.io)
+* [Lilianweng's blog](https://lilianweng.github.io/lil-log)
+* [Ruder's blog](http://ruder.io/#open)
+* [Echen's blog](http://blog.echen.me)
 
 ## YouTube Videos & Channels
 
