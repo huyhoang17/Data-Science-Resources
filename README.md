@@ -26,6 +26,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Websites
 
 * [Numfocus](https://numfocus.org) - Open Code, Better Science
+* [Arvix Sanity Preserver](http://arxiv-sanity.com/top?timefilter=alltime&vfilter=all) - Top arxiv's paper all time
 * [Interactive Machine Learning](https://p.migdal.pl/interactive-machine-learning-list) - Interactive Machine Learning, Deep Learning and Statistics
 
 ## MOOC
@@ -86,7 +87,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Blogs
 
 * [Machine Learning cơ bản](https://machinelearningcoban.com) - Tiep Vu Huu
-* [Toward Data Science](https://towardsdatascience.com)
+* [Medium - Toward Data Science](https://towardsdatascience.com)
+* [Medium - InsightData](https://blog.insightdatascience.com)
 * [OpenAI](https://blog.openai.com)
 * [WildML](http://www.wildml.com)
 * [Distill.pub](https://distill.pub)
