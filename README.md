@@ -83,6 +83,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Scrapy](https://scrapy.org) - Web Scraping
 * [NetworkX](http://networkx.github.io) - Graphs and Networks
 * [Shogun](https://numfocus.org/project/shogun) - Machine Learning Toolbox (C++)
+* [Annoy - Spotify](https://github.com/spotify/annoy) - Approximate Nearest Neighbors (for NOT-SPARSE data)
+* [Pysparnn - Facebook](https://github.com/facebookresearch/pysparnn) - Approximate Nearest Neighbors (for SPARSE data)
+* [Faiss - Facebook](https://github.com/facebookresearch/faiss) - Similarity search and clustering (Dense Vectors)
 
 ## Blogs
 
